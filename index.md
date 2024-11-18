@@ -8,7 +8,7 @@ Email: mjairam@ucsd.edu
 
 ## Section Information
 Section: DSC 180A - Methodology  
-Mentor: Rose Yu and Yian Ma, A11
+Mentors: Rose Yu and Yian Ma, A11
 
 ---
 
@@ -29,3 +29,4 @@ One potential change I would make to my Quarter 1 project is to integrate an API
 **4. What other techniques would you be interested in using in your project?**
 
 In addition to the AI surrogate models and cloud-based architecture used in my Quarter 2 project, I would be interested in exploring the integration of reinforcement learning to optimize decision-making within epidemic simulations. Reinforcement learning could help in dynamically adjusting interventions based on ongoing simulation results, potentially improving the accuracy and efficiency of public health strategies. Additionally, I would consider incorporating multi-fidelity modeling, where lower-resolution simulations are used for quick predictions and higher-resolution models are used when more detail is needed, reducing computational costs while maintaining accuracy.
+

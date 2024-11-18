@@ -1,0 +1,9 @@
+title: DSC180A Methodology 5
+description: This repository contains the solutions for the DSC180A Methodology Assignment 5.
+baseurl: "" 
+url: "https://manav1712.github.io/DSC180A-Methodology-5"
+
+theme: minima 
+markdown: kramdown
+plugins:
+  - jekyll-feed 

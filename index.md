@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Manav Jairam
 Email: mjairam@ucsd.edu
 
